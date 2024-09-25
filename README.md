@@ -17,4 +17,5 @@ Key Activities
 -> Data visualization : Creating charts,graphs, and visualization with libraries like Matplotilb and Sesborn.
 Handling database : Working with databases using libraries such as SQLite ,SQLAlchemy or PostgreSQL connectors.
 
-# CODETECH-Task--1
+![Screenshot (4)](https://github.com/user-attachments/assets/1fb61102-33fe-4f69-9896-ad41283a548a)
+
